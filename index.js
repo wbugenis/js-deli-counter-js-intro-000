@@ -21,5 +21,5 @@ function currentLine(line) {
       if(line.length < i) people += ",";
     }
     return people;
-}
+  }
 }
